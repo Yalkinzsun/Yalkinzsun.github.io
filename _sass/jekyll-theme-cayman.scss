@@ -36,8 +36,18 @@ body {
 
 #go_back {
  text-align:left;
- font-size: 16px;
- color:#fc0;
+  margin-bottom:1rem;
+}
+
+#go_back a {
+  color: #fc0;
+  text-decoration: none;
+  font-size: 16px;
+ 
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 a {
