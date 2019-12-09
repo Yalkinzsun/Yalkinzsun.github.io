@@ -1,5 +1,6 @@
 ---
-layout: 1_course
+layout: course
+title: 1 course
 ---
 
 
