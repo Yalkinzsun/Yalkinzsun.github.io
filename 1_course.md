@@ -1,6 +1,7 @@
 ---
 layout: course
 title: 1 course
+description: 1 курс
 ---
 
 
