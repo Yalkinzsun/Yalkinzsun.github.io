@@ -5,7 +5,8 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[Link to another page](/_layouts/1_course.html).
+---*---
+[Link to another page](/1_course.html).
 
 There should be whitespace between paragraphs.
 
